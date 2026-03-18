@@ -1,4 +1,4 @@
-# CNN_04
+# CNN_CIFAR100_01
 
 
 1. 모델 구조 고도화 (Deep & Light Architecture)
