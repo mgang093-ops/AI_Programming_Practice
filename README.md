@@ -1,4 +1,4 @@
-# KGM_UPGRADE
+# CNN_04
 
 
 1. 모델 구조 고도화 (Deep & Light Architecture)
